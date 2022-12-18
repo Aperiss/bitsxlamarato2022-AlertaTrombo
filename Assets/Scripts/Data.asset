@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edc373c560d294548a2b033cf32f99fc, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  messages:
+  - Cuando la sangre se coagula en el interior de una vena impide su retorno hacia
+    el corazon, entonces la sangre se acumula en la pierna y por esto se hincha y
+    duele
+  - Cuando un trombo venoso se rompe y se desengancha de la pared de la vena donde
+    se ha formado va a parar en ultima instancia a las arterias de los pulmones
+  - La localizacion mas frecuente de trombosis venosa se produce en las venas profundas
+    de las piernas
+  - Los avances medicos han permitido reconocer unos factores de riesgo que pueden
+    desencadenar la ETV como pueden ser los traumatismos, cancer, viajes largos,
+    menopausia, etc...
+  - Permanecer durante periodos prolongados de pie o sentados puede provocar que
+    la sangre se estanque en las piernas y aumente la probabilidad de formar un trombo
+    venoso
+  - Siempre que los musculos de los pies y las piernas trabajen, la bomba muscular
+    ayudara a prevenir la formacion de trombos venosos en las piernas
+  - Si eres una persona con riesgo elevado de sufrir una trombosis venosa profunda,
+    hacer ejercicios de extension de talon mientras estes sentado ayudara a reducir
+    la probabilidad de una TVP
+  - Cualquier cosa que impida que la sangre circule correctamente puede ocasionar
+    un coagulo sanguineo, si has tenido un procedimiento quirurgico o has estado
+    en reposo en cama intenta moverte lo antes posible
+  - La obesidad es un factor de riesgo para la trombosis venosa profunda hacer ejercicio
+    de forma regular reduce el riesgo de tener coagulos sanguineos
